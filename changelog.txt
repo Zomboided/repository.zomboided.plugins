@@ -1,2 +1,5 @@
+v1.0.1
+- Update XML to newer format
+
 v1.0.0
 - Initial release
